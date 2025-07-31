@@ -1,4 +1,5 @@
 # 💫 About Me:
+
 I'm a Computer Science graduate and a passionate full-stack developer specializing in the **MERN** and **PERN** stacks. I enjoy building dynamic, responsive, and scalable web applications using **React**, **Node.js**, **Express**, **MongoDB**, and **PostgreSQL**.
 
 I love turning ideas into real-world projects, continuously improving through hands-on coding, and solving challenging problems using **data structures and algorithms**.
