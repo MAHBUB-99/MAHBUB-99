@@ -9,9 +9,13 @@ Let’s create something amazing together! 🚀
 ### What I’m up to
 
 ♥️ I enjoy learning and exploring new technologies.
+
 🔭 Working on **React.js** & **Next.js** projects  
+
 👯 Excited to collaborate on innovative projects and build scalable web applications
+
 🌱 Learning **JavaScript**, **DevOps**, and **System Design**  
+
 ⚡ Fun fact: My favorite bug is the one that disappears after a `console.log()` 👀  
 
 # 💻 Tech Stack:
