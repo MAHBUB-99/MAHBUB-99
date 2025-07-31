@@ -1,4 +1,14 @@
 # 💫 About Me:
+I'm a Computer Science graduate and a passionate full-stack developer specializing in the **MERN** and **PERN** stacks. I enjoy building dynamic, responsive, and scalable web applications using **React**, **Node.js**, **Express**, **MongoDB**, and **PostgreSQL**.
+
+I love turning ideas into real-world projects, continuously improving through hands-on coding, and solving challenging problems using **data structures and algorithms**.
+
+Currently, I'm exploring modern web technologies, polishing my frontend skills with **Next.js** and **Tailwind CSS**, and always looking forward to collaborating on exciting and meaningful software projects.
+
+Let's build something amazing together!
+
+
+
 🔭 I’m currently working on **React.js** & **Next.js** projects  <br>👯 I’m looking to collaborate on **modern, scalable web applications**  <br>🤝 I’m looking for help with **creative product ideas**  <br>🌱 I’m currently learning **JavaScript**, **DevOps**, **System Design** <br>💬 Ask me about **React patterns, Next.js best practices, and clean component design**  <br>⚡ Fun fact: **My favorite bug is the one that disappears after a console log 👀**  
 
 
