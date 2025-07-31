@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on **React.js** & **Next.js** projects  <br>👯 I’m looking to collaborate on **modern, scalable web applications**  <br>🤝 I’m looking for help with **creative product ideas **  <br>🌱 I’m currently learning **JavaScript**, **DevOps**, **System Design** <br>💬 Ask me about **React patterns, Next.js best practices, and clean component design**  <br>⚡ Fun fact: **My favorite bug is the one that disappears after a console log 👀**  
+🔭 I’m currently working on **React.js** & **Next.js** projects  <br>👯 I’m looking to collaborate on **modern, scalable web applications**  <br>🤝 I’m looking for help with **creative product ideas**  <br>🌱 I’m currently learning **JavaScript**, **DevOps**, **System Design** <br>💬 Ask me about **React patterns, Next.js best practices, and clean component design**  <br>⚡ Fun fact: **My favorite bug is the one that disappears after a console log 👀**  
 
 
 ## 🌐 Socials:
