@@ -8,11 +8,11 @@ Let’s create something amazing together! 🚀
 
 ### What I’m up to
 
-♥️ I enjoy learning and exploring new technologies.
+♥️ I enjoy **learning** and exploring **new technologies**.
 
 🔭 Working on **React.js** & **Next.js** projects  
 
-👯 Excited to collaborate on innovative projects and build scalable web applications
+👯 Excited to collaborate on **innovative projects**
 
 🌱 Learning **JavaScript**, **DevOps**, and **System Design**  
 
