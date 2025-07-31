@@ -1,16 +1,24 @@
-# 💫 About Me:
+# 💫 About Me
 
-I'm a Computer Science graduate and a passionate full-stack developer specializing in the **MERN** and **PERN** stacks. I enjoy building dynamic, responsive, and scalable web applications using **React**, **Node.js**, **Express**, **MongoDB**, and **PostgreSQL**.
+I'm a Computer Science graduate passionate about full-stack development, specializing in the **MERN** and **PERN** stacks. I love to build dynamic, scalable web applications using **React**, **Node.js**, **Express**, **MongoDB**, and **PostgreSQL**.
 
-I love turning ideas into real-world projects, continuously improving through hands-on coding, and solving challenging problems using **data structures and algorithms**.
+I enjoy turning ideas into real projects, sharpening my problem-solving skills through **Data Structures & Algorithms**, and constantly exploring new technologies.
 
-Currently, I'm exploring modern web technologies, polishing my frontend skills with **Next.js** and **Tailwind CSS**, and always looking forward to collaborating on exciting and meaningful software projects.
+Currently, I’m deepening my frontend expertise with **Next.js** and **Tailwind CSS**, while expanding my knowledge in **JavaScript**, **DevOps**, and **System Design**.
 
-Let's build something amazing together!
+Let’s create something amazing together! 🚀
 
+---
 
+### What I’m up to
 
-🔭 I’m currently working on **React.js** & **Next.js** projects  <br>👯 I’m looking to collaborate on **modern, scalable web applications**  <br>🤝 I’m looking for help with **creative product ideas**  <br>🌱 I’m currently learning **JavaScript**, **DevOps**, **System Design** <br>💬 Ask me about **React patterns, Next.js best practices, and clean component design**  <br>⚡ Fun fact: **My favorite bug is the one that disappears after a console log 👀**  
+🔭 Working on **React.js** & **Next.js** projects  
+👯 Looking to collaborate on **scalable web applications**  
+🤝 Seeking help with **creative product ideas**  
+🌱 Learning **JavaScript**, **DevOps**, and **System Design**  
+💬 Ask me about **React patterns, Next.js best practices, and clean component design**  
+⚡ Fun fact: My favorite bug is the one that disappears after a `console.log()` 👀  
+
 
 
 ## 🌐 Socials:
