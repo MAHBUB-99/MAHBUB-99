@@ -25,13 +25,6 @@ Let’s create something amazing together! 🚀
 ![](https://nirzak-streak-stats.vercel.app/?user=MAHBUB-99&theme=radical&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=MAHBUB-99&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=MAHBUB-99&theme=date_night&no-frame=false&no-bg=true&margin-w=4)
-
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=MAHBUB-99&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
 ---
 [![](https://visitcount.itsvg.in/api?id=MAHBUB-99&icon=5&color=4)](https://visitcount.itsvg.in)
 
