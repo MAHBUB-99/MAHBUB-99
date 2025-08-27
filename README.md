@@ -27,7 +27,3 @@ Let’s create something amazing together! 🚀
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=MAHBUB-99&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=MAHBUB-99&icon=5&color=4)](https://visitcount.itsvg.in)
-
-
-
