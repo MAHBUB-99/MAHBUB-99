@@ -78,22 +78,28 @@
 
 # 📂 Projects
 
+## 🌐 Web / Full-Stack Projects
+
 | 🚀 Project Name | 📝 Description | 🛠️ Tech Stack | 🌐 Link |
 |-----------------|----------------|---------------|---------|
 | **Programming For Kids** | Gamified platform to teach coding to children with interactive challenges and puzzles. | React.js, Node.js, Express.js, PostgreSQL, Bootstrap | [GitHub](https://github.com/farhan19999/Programming-For-Kids) · [Video](https://youtu.be/swwpaDf4fcs?si=oQoKh2DARnZM52PO) |
 | **PromptSage** | A marketplace where users can create, buy, and sell AI prompts for models like DALL·E & MidJourney. | Node.js, Express.js, React.js, MongoDB, Tailwind CSS | [GitHub](https://github.com/MAHBUB-99/Project-PromptSage) · [Video](https://www.youtube.com/watch?v=P1j9AOkzhqU) |
 | **Third Eye For Blind** | Microcontroller-based assistive device for visually impaired users. Uses ultrasonic sensors for detection & vibration motors for feedback. | Arduino Uno, Ultrasonic Sensor, Compass Sensor, Bluetooth, Vibration Motor | [GitHub](https://github.com/MAHBUB-99/CSE-316_Microcontroller-Project) · [Video](https://youtu.be/RtrROTO9bsk?si=J1tAzmDtqypnOe6Z) |
-| **Library Management System** | A C# OOP-based system with admin, students, teachers, and guest users. Supports book borrowing, return, renewal, and fee management. | C#, OOP, .NET | – |
-| **Food Ordering & Management UI** | React-based system for placing orders, managing status (pending/completed), calculating total price, and generating reports. | React.js, Context API / Reducer, Tailwind CSS | – |
+| **Stay Swift** | A hotel booking website for travelers to search, book, and manage hotel reservations with a user-friendly interface. | React.js, Next.js, MongoDB, Tailwind CSS | – |
+| **Blogify** | A blogging platform built with Next.js, enabling users to create, edit, and manage blog posts with server-side rendering for optimal performance. | Next.js, React.js, Node.js, MongoDB, Tailwind CSS | – |
+| **NewsPortal** | A news website built with Next.js where users can browse, filter, and read news articles with server-side rendering for fast performance. | Next.js, React.js, MongoDB, Tailwind CSS | – |
+| **Event Management** | A platform built with Next.js to create, manage, and RSVP for events. Users can view upcoming events, register, and receive notifications. | Next.js, React.js, Node.js, MongoDB, Tailwind CSS | – |
+| **PhotoFeed** | A social media-style app built with Next.js where users can upload, view, like, and comment on photos in a dynamic feed. | Next.js, React.js, Node.js, MongoDB, Tailwind CSS | – |
 | **AI Image Generator** | A React app where users can generate AI images by entering prompts, with advanced settings (model, seed, aspect ratio). Supports grid layout & error handling. | React.js, Node.js, API Integration | – |
-| **Online Coffee Shop Management System** | Advanced MERN app with Admin Panel (sales, orders, reports) & Customer Site (order & tracking). | MERN (MongoDB, Express, React, Node), Tailwind CSS | – |
-| **Singara Shop Management System** | MERN app with order management, admin dashboard, and customer-side ordering system. | MERN Stack | – |
-| **Full-Stack Chat App (like ChatGPT)** | A conversational app where users can chat with AI. Stores conversations & messages in MongoDB Atlas. | Next.js, Node.js, Google Gemini API, MongoDB Atlas | – |
+
+## 🧩 OOP Practice Projects
+
+| 🚀 Project Name | 📝 Description | 🛠️ Tech Stack | 🌐 Link |
+|-----------------|----------------|---------------|---------|
+| **Library Management System** | A C# OOP-based system with admin, students, teachers, and guest users. Supports book borrowing, return, renewal, and fee management. | C#, OOP, .NET | – |
 | **Banking System (Java OOP)** | Simulates banking with admin panel, login/logout, ATM & mobile banking, transaction history, encapsulation & inheritance. | Java, OOP | – |
 | **Ride Fare Calculation System** | Java OOP assignment using abstraction, encapsulation, and inheritance to handle multiple ride & user types with discounts. | Java, OOP | – |
-| **Custom Array Class** | Java implementation of dynamic string array with add, remove, subarray, merge, and search functionalities. | Java, OOP | – |
-| **Task Manager** | A Spring Boot app for managing tasks with CRUD features, categories, and deadlines. | Java, Spring Boot, MySQL | – |
-| **Posts & Users API** | Node.js + Express + MySQL backend for authentication (JWT + bcrypt), CRUD on posts, and user management. | Node.js, Express, MySQL, JWT | – |
+
 
 
 
