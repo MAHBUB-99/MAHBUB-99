@@ -76,6 +76,23 @@
 ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=flat&logo=latex&logoColor=white)
 
 
+# 📂 Projects
+
+| 🚀 Project Name | 📝 Description | 🛠️ Tech Stack | 🌐 Link |
+|-----------------|----------------|---------------|---------|
+| **Library Management System** | A C# OOP-based system with admin, students, teachers, and guest users. Supports book borrowing, return, renewal, and fee management. | C#, OOP, .NET | – |
+| **Food Ordering & Management UI** | React-based system for placing orders, managing status (pending/completed), calculating total price, and generating reports. | React.js, Context API / Reducer, Tailwind CSS | – |
+| **AI Image Generator** | A React app where users can generate AI images by entering prompts, with advanced settings (model, seed, aspect ratio). Supports grid layout & error handling. | React.js, Node.js, API Integration | – |
+| **Online Coffee Shop Management System** | Advanced MERN app with Admin Panel (sales, orders, reports) & Customer Site (order & tracking). | MERN (MongoDB, Express, React, Node), Tailwind CSS | – |
+| **Singara Shop Management System** | MERN app with order management, admin dashboard, and customer-side ordering system. | MERN Stack | – |
+| **Full-Stack Chat App (like ChatGPT)** | A conversational app where users can chat with AI. Stores conversations & messages in MongoDB Atlas. | Next.js, Node.js, Google Gemini API, MongoDB Atlas | – |
+| **Banking System (Java OOP)** | Simulates banking with admin panel, login/logout, ATM & mobile banking, transaction history, encapsulation & inheritance. | Java, OOP | – |
+| **Ride Fare Calculation System** | Java OOP assignment using abstraction, encapsulation, and inheritance to handle multiple ride & user types with discounts. | Java, OOP | – |
+| **Custom Array Class** | Java implementation of dynamic string array with add, remove, subarray, merge, and search functionalities. | Java, OOP | – |
+| **Task Manager** | A Spring Boot app for managing tasks with CRUD features, categories, and deadlines. | Java, Spring Boot, MySQL | – |
+| **Posts & Users API** | Node.js + Express + MySQL backend for authentication (JWT + bcrypt), CRUD on posts, and user management. | Node.js, Express, MySQL, JWT | – |
+
+
 
 
 # 📊 GitHub Stats:
