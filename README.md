@@ -96,7 +96,7 @@
 
 | 🚀 Project Name | 📝 Description | 🛠️ Tech Stack | 🌐 Link |
 |-----------------|----------------|---------------|---------|
-| **Library Management System** | A C# OOP-based system with admin, students, teachers, and guest users. Supports book borrowing, return, renewal, and fee management. | C#, OOP, .NET | – |
+| **Library Management System** | A C# OOP-based system with role-based access (Admin, Student, Teacher, Guest). Includes book management, borrowing limits, renewals, and late fee tracking. | C#, OOP, .NET, SOLID, Factory Pattern | [GitHub](https://github.com/MAHBUB-99/C-Sharp/tree/main/LibraryManagementSystem) |
 | **Banking System (Java OOP)** | Simulates banking with admin panel, login/logout, ATM & mobile banking, transaction history, encapsulation & inheritance. | Java, OOP | – |
 | **Ride Fare Calculation System** | Java OOP assignment using abstraction, encapsulation, and inheritance to handle multiple ride & user types with discounts. | Java, OOP | – |
 
