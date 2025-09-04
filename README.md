@@ -96,10 +96,8 @@
 ⚙️ DevOps Projects  
 🚀 Project Name | 📝 Description | 🛠️ Tech Stack | 🌐 Link  
 --- | --- | --- | ---  
-Basic Web Server on EC2 & S3 Hosting | Guide to setting up an Nginx web server on AWS EC2 and optionally hosting static HTML files on Amazon S3 with public access configuration. | AWS EC2, Nginx, S3, Linux, SSH | GitHub  
+Basic Web Server on EC2 & S3 Hosting | Guide to setting up an Nginx web server on AWS EC2 and optionally hosting static HTML files on Amazon S3 with public access configuration. | AWS EC2, Nginx, S3, Linux, SSH | [GitHub](https://github.com/MAHBUB-99/AWS---WebServer-on-EC2-S3-Bucket)  
 CI/CD Pipeline with GitHub Actions | Automated pipeline setup for building, testing, and deploying applications using GitHub Actions. Supports containerized deployments. | GitHub Actions, Docker, AWS/GCP/Azure | –  
-S3 Static Website Hosting | Setup guide to host and manage a static website fully on Amazon S3 with proper bucket policies and public access configuration. | AWS S3, IAM, Bucket Policy | –  
-CloudFront Distribution for S3 Website | Enhancing S3 static hosting with CloudFront CDN for global performance, SSL, and caching optimization. | AWS CloudFront, S3, HTTPS | –  
 
 
 
