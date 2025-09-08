@@ -91,6 +91,7 @@
 | **Event Management** | A platform built with Next.js to create, manage, and RSVP for events. Users can view upcoming events, register, and receive notifications. | Next.js, React.js, Node.js, MongoDB, Tailwind CSS | – |
 | **PhotoFeed** | A social media-style app built with Next.js where users can upload, view, like, and comment on photos in a dynamic feed. | Next.js, React.js, Node.js, MongoDB, Tailwind CSS | – |
 | **AI Image Generator** | A React app where users can generate AI images by entering prompts, with advanced settings (model, seed, aspect ratio). Supports grid layout & error handling. | React.js, Node.js, API Integration | – |
+| **OnboardX** | A multi-step onboarding application built with Next.js and React. Features step-by-step forms with Zod validation, draft saving, file upload, emergency contact handling, and a success confirmation page. | Next.js, React.js, ShadCn UI, Zod, React Hook Form, Tailwind CSS |[GitHub](https://github.com/MAHBUB-99/OnboardX) · [Live Link](https://onboardpage.netlify.app/) |
 
 
 ⚙️ DevOps Projects  
