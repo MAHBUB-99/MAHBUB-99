@@ -14,7 +14,7 @@
 
 👯 Excited to collaborate on **innovative projects**
 
-🌱 Learning **JavaScript**, **DevOps**, and **System Design**  
+🌱 Learning ***.NET Core**, **DevOps**, and **System Design**  
 
 ⚡ Fun fact: My favorite bug is the one that disappears after a `console.log()`
 
