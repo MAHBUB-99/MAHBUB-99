@@ -1,8 +1,12 @@
 # 💫 Assalamu-Alaikum
 
-💻 I'm a recent Computer Science graduate passionate about full-stack development, specializing in the MERN and PERN stacks. I love building dynamic, scalable web applications using **React.js**, **Next.js**, **Node.js**, **Express**, **MongoDB**, and **PostgreSQL**. Beyond development, I’m also interested in **cloud technologies**, working with **AWS** services, and setting up modern **CI/CD** pipelines to ensure smooth deployment and scalability. I enjoy turning ideas into real projects, sharpening my problem-solving skills through Data Structures & Algorithms, and constantly exploring new technologies.
+💻 I'm a recent **Computer Science graduate** passionate about **full-stack development**. I enjoy building **dynamic, scalable web applications** using **React.js**, **Next.js**, **Node.js**, **Express**, **MongoDB**, and **PostgreSQL**.  
 
-🚀 Let’s create something amazing together!     
+Beyond development, I have a keen interest in **cloud technologies** and **DevOps practices**. I actively work with **AWS services** like EC2, S3 and set up **modern CI/CD pipelines** using **GitHub Actions**, **Docker**, and **Ansible** to ensure smooth deployment and scalable applications.  
+
+I love **problem-solving**, improving my skills in **Data Structures & Algorithms**, and applying them to **real-world coding challenges**. I constantly explore **new technologies and frameworks** to stay ahead in both backend and frontend development, turning ideas into real projects that make an impact.  
+
+🚀 Let's build something amazing together!
    
 ---
 
