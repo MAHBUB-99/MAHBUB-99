@@ -10,17 +10,12 @@ I love **problem-solving**, improving my skills in **Data Structures & Algorithm
    
 ---
 
-### What I’m up to
+### What I’m up to  
 
-♥️ I enjoy **learning** and exploring **new technologies**.
-
-🔭 Working on **React.js** & **Next.js** projects  
-
-👯 Excited to collaborate on **innovative projects**
-
-🌱 Learning ***.NET Core**, **DevOps**, and **System Design**  
-
-⚡ Fun fact: My favorite bug is the one that disappears after a `console.log()`
+♥️ Passionate about learning and exploring new technologies.  
+🔭 Building projects with **Express**, **React.js**, and **Next.js**.  
+👯 Open to collaborating on **innovative ideas**.  
+🌱 Currently learning **.NET Core**, **DevOps**, and **System Design**. 
 
 # 💻 Tech Stack
 
