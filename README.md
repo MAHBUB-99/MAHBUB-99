@@ -69,7 +69,6 @@ I love **problem-solving**, improving my skills in **Data Structures & Algorithm
 ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=flat&logo=adobe&logoColor=white) 
 ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=flat&logo=latex&logoColor=white)
 
-
 # 📂 Projects
 
 ## 🌐 Web / Full-Stack Projects
