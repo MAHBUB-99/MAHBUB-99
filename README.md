@@ -72,6 +72,9 @@ I love **problem-solving**, improving my skills in **Data Structures & Algorithm
 ![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=flat&logo=adobe%20illustrator&logoColor=white) 
 ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=flat&logo=latex&logoColor=white)
 
+# 📈 LeetCode Stats
+![LeetCode Stats](https://leetcard.jacoblin.cool/MAHBUB-99?theme=dark&font=Nunito&ext=heatmap)
+
 # 📂 Projects 
 
 ## 🌐 Web / Full-Stack Projects
