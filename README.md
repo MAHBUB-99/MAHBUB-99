@@ -72,8 +72,6 @@ I love **problem-solving**, improving my skills in **Data Structures & Algorithm
 ![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=flat&logo=adobe%20illustrator&logoColor=white) 
 ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=flat&logo=latex&logoColor=white)
 
-# 🧮 LeetCode Consistency
-![LeetCode Stats](https://leetcard.jacoblin.cool/MAHBUB_?theme=dark&ext=heatmap)
 
 # 📂 Projects 
 
@@ -111,9 +109,8 @@ CI/CD Pipeline with GitHub Actions | Automated pipeline setup for building, test
 | **Banking System (Java OOP)** | Simulates banking with admin panel, login/logout, ATM & mobile banking, transaction history, encapsulation & inheritance. | Java, OOP | – |
 | **Ride Fare Calculation System** | Java OOP assignment using abstraction, encapsulation, and inheritance to handle multiple ride & user types with discounts. | Java, OOP | – |
 
-
-
-
+# 🧮 LeetCode Consistency
+![LeetCode Stats](https://leetcard.jacoblin.cool/MAHBUB_?theme=dark&ext=heatmap)
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=MAHBUB-99&theme=radical&hide_border=false&include_all_commits=false&count_private=false)      <br/>
