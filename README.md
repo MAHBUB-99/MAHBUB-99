@@ -109,7 +109,7 @@ CI/CD Pipeline with GitHub Actions | Automated pipeline setup for building, test
 | **Banking System (Java OOP)** | Simulates banking with admin panel, login/logout, ATM & mobile banking, transaction history, encapsulation & inheritance. | Java, OOP | – |
 | **Ride Fare Calculation System** | Java OOP assignment using abstraction, encapsulation, and inheritance to handle multiple ride & user types with discounts. | Java, OOP | – |
 
-# 🧮 LeetCode Consistency
+# 🧮 LeetCode Stats:
 ![LeetCode Stats](https://leetcard.jacoblin.cool/MAHBUB_?theme=dark&ext=heatmap)
 
 # 📊 GitHub Stats:
