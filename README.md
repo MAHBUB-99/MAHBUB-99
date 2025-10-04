@@ -79,6 +79,7 @@ I love **problem-solving**, improving my skills in **Data Structures & Algorithm
 
 | 🚀 Project Name | 📝 Description | 🛠️ Tech Stack | 🌐 Link |
 |-----------------|----------------|---------------|---------|
+| **Xv6 RISC-V OS Enhancements** | Hands-on kernel programming: implemented user programs, system calls, IPC, lottery scheduling, and paging-based memory management on Xv6 for RISC-V. Gained experience with process structure, kernel internals, and OS components. | C, RISC-V, Xv6 OS | [GitHub](https://github.com/mit-pdos/xv6-riscv) |
 | **Programming For Kids** | Gamified platform to teach coding to children with interactive challenges and puzzles. | React.js, Node.js, Express.js, PostgreSQL, Bootstrap | [GitHub](https://github.com/farhan19999/Programming-For-Kids) · [Video](https://youtu.be/swwpaDf4fcs?si=oQoKh2DARnZM52PO) |
 | **PromptSage** | A marketplace where users can create, buy, and sell AI prompts for models like DALL·E & MidJourney. | Node.js, Express.js, React.js, MongoDB, Tailwind CSS | [GitHub](https://github.com/MAHBUB-99/Project-PromptSage) · [Video](https://www.youtube.com/watch?v=P1j9AOkzhqU) |
 | **Third Eye For Blind** | Microcontroller-based assistive device for visually impaired users. Uses ultrasonic sensors for detection & vibration motors for feedback. | Arduino Uno, Ultrasonic Sensor, Compass Sensor, Bluetooth, Vibration Motor | [GitHub](https://github.com/MAHBUB-99/CSE-316_Microcontroller-Project) · [Video](https://youtu.be/RtrROTO9bsk?si=J1tAzmDtqypnOe6Z) |
