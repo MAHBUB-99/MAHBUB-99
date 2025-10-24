@@ -90,6 +90,18 @@ I love **problem-solving**, improving my skills in **Data Structures & Algorithm
 
 ---
 
+# 🧾 Internship Experience  
+
+### 💼 **Internship Program – Pubali Bank PLC**  
+📅 *February 2023 – March 2023*  
+📍 *Dhaka, Bangladesh*  
+
+- Worked on a **Fund Management System** for internal banking operations.  
+- Involved in **System Design** and **Backend Development**, including **JWT-based authentication API** and partial **Fund Management API**.  
+- **Tools Used:** ASP.NET  
+
+---
+
 # 📂 Projects 
 
 ## 🌐 Web / Full-Stack Projects
