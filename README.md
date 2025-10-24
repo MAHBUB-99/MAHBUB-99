@@ -75,6 +75,21 @@ I love **problem-solving**, improving my skills in **Data Structures & Algorithm
 ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=flat&logo=latex&logoColor=white)
 
 
+# 💼 Professional Experience  
+
+### 🧑‍💻 **Junior Software Engineer – TechnoNext Software Limited (a concern of US-Bangla Group)**  
+📅 *October 2025 – Present*  
+📍 *Dhaka, Bangladesh*  
+
+- Working as part of the **.NET development team**, focusing on building robust backend APIs and integrating modern frontend technologies.  
+- Developed and maintained **RESTful APIs** using **ASP.NET Core**, **Entity Framework Core**, and **SQL Server**.  
+- Collaborated with frontend developers to connect APIs with **React.js** and **Next.js** applications.  
+- Implemented **JWT-based authentication**, role-based access control, and optimized database queries for performance.  
+- Participated in **code reviews**, followed **clean architecture principles**, and maintained consistent **Git-based workflows**.  
+- Exploring **cloud deployment** on **AWS** and integrating **CI/CD pipelines** for automation using **GitHub Actions** and **Docker**.  
+
+---
+
 # 📂 Projects 
 
 ## 🌐 Web / Full-Stack Projects
