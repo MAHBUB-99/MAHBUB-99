@@ -79,7 +79,7 @@ I love **problem-solving**, improving my skills in **Data Structures & Algorithm
 
 ### 🧑‍💻 **Junior Software Engineer – TechnoNext Software Limited (a concern of US-Bangla Group)**  
 📅 *October 2025 – Present*  
-📍 *Dhaka, Bangladesh*  
+📍 *Dhaka, Bangladesh*   
 
 - Working as part of the **.NET development team**, focusing on building robust backend APIs and integrating modern frontend technologies.  
 - Developed and maintained **RESTful APIs** using **ASP.NET Core**, **Entity Framework Core**, and **SQL Server**.  
