@@ -82,12 +82,13 @@ I love **problem-solving**, improving my skills in **Data Structures & Algorithm
 📅 *October 2025 – Present*  
 📍 *Dhaka, Bangladesh*   
 
-- Working as part of the **.NET development team**, focusing on building robust backend APIs and integrating modern frontend technologies.  
-- Developed and maintained **RESTful APIs** using **ASP.NET Core**, **Entity Framework Core**, and **SQL Server**.  
-- Collaborated with frontend developers to connect APIs with **React.js** and **Next.js** applications.  
-- Implemented **JWT-based authentication**, role-based access control, and optimized database queries for performance.  
-- Participated in **code reviews**, followed **clean architecture principles**, and maintained consistent **Git-based workflows**.  
-- Exploring **cloud deployment** on **AWS** and integrating **CI/CD pipelines** for automation using **GitHub Actions** and **Docker**.  
+- Working as part of the **.NET backend team** building high-performance Microservices using **Clean Architecture** & Domain Driven principles.  
+- Designed & developed **REST** based APIs and **gRPC services** using **ASP.NET Core**, **Entity Framework Core (EF Core)**, **SQL Server** & **PostgreSQL (pgSQL)**, and **AutoMapper**.  
+- Implemented end-to-end **JWT authentication**, improved **ILogger** based structured logging**, and enhanced exception handling for better observability.  
+- Built and contributed to internal microservices like **Foodi Rider Service** and **CherryPicker** platform modules.  
+- Integrated **RabbitMQ** message broker for event-driven communication between distributed microservices.  
+- Followed strict **code review** standards, wrote reusable components, and improved maintainability using **Clean Architecture** best practices.  
+- Working on **CI/CD** automation using **GitHub Actions**, exploring **Docker** containerization and cloud deployment environments.  
 
 ---
 
