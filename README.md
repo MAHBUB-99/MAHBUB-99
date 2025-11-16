@@ -12,7 +12,7 @@ I love **problem-solving**, improving my skills in **Data Structures & Algorithm
 
 ### What I’m up to  
 
-♥️ Passionate about learning and exploring new technologies.  
+♥️ Passionate about learning and exploring new technologies.   
 🔭 Building projects with **Express**, **React.js**, and **Next.js**.  
 👯 Open to collaborating on **innovative ideas**.  
 🌱 Currently learning **.NET Core**,**Go lang** , **DevOps**, and **System Design**.   
