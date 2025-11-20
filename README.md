@@ -1,4 +1,4 @@
-# 💫 Assalamu-Alaikum
+# 💫 Assalamu-Alaikum 
 
 💻 I'm a recent **Computer Science graduate** passionate about **full-stack development**. I enjoy building **dynamic, scalable web applications** using **React.js**, **Next.js**, **Node.js**, **Express** and **SQL**.    
 
