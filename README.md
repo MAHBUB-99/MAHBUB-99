@@ -41,15 +41,18 @@ I love **problem-solving**, improving my skills in **Data Structures & Algorithm
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white)
 
 ![ASP.NET Core](https://img.shields.io/badge/ASP.NET%20Core-512BD4?style=flat&logo=dotnet&logoColor=white)
+![gRPC](https://img.shields.io/badge/gRPC-3EACFF?style=flat&logo=grpc&logoColor=white)  
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat&logo=node.js&logoColor=white) 
 ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=flat&logo=express&logoColor=%2361DAFB) 
 ![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=flat&logo=nodemon&logoColor=%BBDEAD) 
 ![JWT](https://img.shields.io/badge/JWT-black?style=flat&logo=JSON%20web%20tokens)
+![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=flat&logo=rabbitmq&logoColor=white)
 
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat&logo=mongodb&logoColor=white) 
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=flat&logo=postgresql&logoColor=white) 
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=flat&logo=mysql&logoColor=white) 
 ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=flat&logo=sqlite&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white)
 
 ![Bash](https://img.shields.io/badge/bash-%23121011.svg?style=flat&logo=gnu-bash&logoColor=white) 
 ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=flat&logo=powershell&logoColor=white) 
@@ -82,13 +85,12 @@ I love **problem-solving**, improving my skills in **Data Structures & Algorithm
 📅 *October 2025 – Present*  
 📍 *Dhaka, Bangladesh*   
 
-- Working as part of the **.NET backend team** building high-performance Microservices using **Clean Architecture** & Domain Driven principles.  
-- Designed & developed **REST** based APIs and **gRPC services** using **ASP.NET Core**, **Entity Framework Core (EF Core)**, **SQL Server** & **PostgreSQL (pgSQL)**, and **AutoMapper**.  
-- Implemented end-to-end **JWT authentication**, improved **ILogger** based structured logging**, and enhanced exception handling for better observability.  
-- Built and contributed to internal microservices like **Foodi Rider Service** and **CherryPicker** platform modules.  
-- Integrated **RabbitMQ** message broker for event-driven communication between distributed microservices.  
-- Followed strict **code review** standards, wrote reusable components, and improved maintainability using **Clean Architecture** best practices.  
-- Working on **CI/CD** automation using **GitHub Actions**, exploring **Docker** containerization and cloud deployment environments.  
+- Part of the **.NET Backend Team**, building high-performance **microservices** using **Clean Architecture** and **Domain-Driven Design (DDD)** principles.  
+- Designed and developed **REST APIs**, **gRPC services**, and caching layers using **ASP.NET Core**, **Entity Framework Core**, **SQL Server**, **PostgreSQL**, **AutoMapper**, and **Redis**.  
+- Implemented end-to-end **JWT authentication**, improved **ILogger**-based structured logging, and enhanced global exception handling for better observability.  
+- Developed and contributed to internal microservices such as **Foodi Rider Service** and the **CherryPicker** platform.  
+- Integrated **RabbitMQ** for event-driven communication across distributed microservices.  
+- Followed strict **code review** standards, created reusable components, and improved maintainability using **Clean Architecture** best practices.  
 
 ---
 
