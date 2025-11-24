@@ -1,6 +1,6 @@
 # 💫 Assalamu-Alaikum 
 
-💻 I'm a recent **Computer Science graduate** passionate about **full-stack development**. I enjoy building **dynamic, scalable web applications** using **React.js**, **Next.js**, **Node.js**, **Express** and **SQL**.    
+💻 I'm a recent **Computer Science graduate** passionate about **full-stack development**. I enjoy building **dynamic, scalable web applications** using **React.js**, **Next.js**, **Node.js**, **Express** and **SQL**.     
 
 Beyond development, I have a keen interest in **cloud technologies** and **DevOps practices**. I actively work with **AWS services** like **EC2, S3** and set up **modern CI/CD pipelines** using **GitHub Actions**, **Docker**, **terraform** and **Ansible** to ensure smooth deployment and scalable applications.    
 
