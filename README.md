@@ -91,7 +91,7 @@ I love **problem-solving**, improving my skills in **Data Structures & Algorithm
 - Integrated **RabbitMQ** for event-driven communication across distributed microservices.  
 - Followed strict **code review** standards, created reusable components, and improved maintainability using **Clean Architecture** best practices.  
 
----
+--- 
 
 # 🧾 Internship Experience  
 
