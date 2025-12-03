@@ -132,8 +132,6 @@ Create Folder & Install Docker on AWS EC2 | Step-by-step guide to connect multip
 CI/CD Pipeline with GitHub Actions | Automated pipeline setup for building, testing, and deploying applications using GitHub Actions. Supports containerized deployments. | GitHub Actions, Docker, AWS/GCP/Azure | –  
 
 
-
-
 ## 🧩 OOP Practice Projects
 
 | 🚀 Project Name | 📝 Description | 🛠️ Tech Stack | 🌐 Link |
