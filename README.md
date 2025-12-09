@@ -95,7 +95,7 @@ I love **problem-solving**, improving my skills in **Data Structures & Algorithm
 
 # 🧾 Internship Experience  
 
-### 💼 **Internship Program – Pubali Bank PLC**  
+### 💼 **Internship Program – Pubali Bank PLC**   
 📅 *February 2023 – March 2023*  
 📍 *Dhaka, Bangladesh*  
 
