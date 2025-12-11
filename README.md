@@ -131,7 +131,6 @@ Basic Web Server on EC2 & S3 Hosting | Guide to setting up an Nginx web server o
 Create Folder & Install Docker on AWS EC2 | Step-by-step guide to connect multiple AWS EC2 instances using Ansible, create directories, install Docker, and verify installation remotely on all instances. | AWS EC2, Ubuntu, Ansible, Docker, WSL, SSH | [GitHub](https://github.com/MAHBUB-99/Ansible-Basic)
 CI/CD Pipeline with GitHub Actions | Automated pipeline setup for building, testing, and deploying applications using GitHub Actions. Supports containerized deployments. | GitHub Actions, Docker, AWS/GCP/Azure | –  
 
-
 ## 🧩 OOP Practice Projects
 
 | 🚀 Project Name | 📝 Description | 🛠️ Tech Stack | 🌐 Link |
