@@ -122,7 +122,6 @@ I love **problem-solving**, improving my skills in **Data Structures & Algorithm
 | **AI Image Generator** | A React app where users can generate AI images by entering prompts, with advanced settings (model, seed, aspect ratio). Supports grid layout & error handling. | React.js, Node.js, API Integration | – | Learned API integration, handling asynchronous requests, and dynamic UI updates. |
 | **OnboardX** | A multi-step onboarding application built with Next.js and React. Features step-by-step forms with Zod validation, draft saving, file upload, emergency contact handling, and a success confirmation page. | Next.js, React.js, ShadCn UI, Zod, React Hook Form, Tailwind CSS | [GitHub](https://github.com/MAHBUB-99/OnboardX) · [Live Link](https://onboardpage.netlify.app/) | Improved form validation, multi-step UI flows, state management, and user experience design. |
 
-
 ⚙️ DevOps Projects  
 🚀 Project Name | 📝 Description | 🛠️ Tech Stack | 🌐 Link  
 --- | --- | --- | ---  
