@@ -79,16 +79,30 @@ I love **problem-solving**, improving my skills in **Data Structures & Algorithm
 
 # 💼 Professional Experience  
 
-### 🧑‍💻 **Junior Software Engineer – TechnoNext Software Limited (a concern of US-Bangla Group)**  
+### 🧑‍💻 Junior Software Engineer  
+**TechnoNext Software Limited** *(A Concern of US-Bangla Group)*  
 📅 *October 2025 – Present*  
-📍 *Dhaka, Bangladesh*   
+📍 *Dhaka, Bangladesh*
 
-- Part of the **.NET Backend Team**, building high-performance **microservices** using **Clean Architecture** and **Domain-Driven Design (DDD)** principles.  
-- Designed and developed **REST APIs**, **gRPC services**, and caching layers using **ASP.NET Core**, **Entity Framework Core**, **SQL Server**, **PostgreSQL**, **AutoMapper**, and **Redis**.  
-- Implemented end-to-end **JWT authentication**, improved **ILogger**-based structured logging, and enhanced global exception handling for better observability.  
-- Developed and contributed to internal microservices such as **Foodi Rider Service** and the **CherryPicker** platform.  
-- Integrated **RabbitMQ** for event-driven communication across distributed microservices.  
-- Followed strict **code review** standards, created reusable components, and improved maintainability using **Clean Architecture** best practices.  
+#### 🔧 Role & Responsibilities
+- Member of the **.NET Backend Engineering Team**, developing scalable and high-performance **microservices** following **Clean Architecture** principles.
+- Designed and implemented secure, maintainable **REST APIs** and **gRPC services** using **ASP.NET Core** and **Entity Framework Core**.
+- Worked with  **PostgreSQL**, focusing on efficient data modeling and optimized queries.
+- Improved system observability by enhancing **ILogger-based structured logging** and implementing centralized **global exception handling**.
+- Integrated **Redis** caching to improve performance and reduce database load.
+- Followed strict **code review** practices, developed reusable components, and enforced consistency using **Clean Architecture** best practices.
+
+#### 🧩 Services & Platforms
+- **Rider Service**
+- **CherryPicker Platform**
+- **Incentive Service**
+- **Report Service**
+- **Consumer Service**
+
+> Implemented **event-driven communication** between microservices using **RabbitMQ**, ensuring reliable asynchronous processing and loose coupling.
+
+#### 🛠️ Tech Stack
+**ASP.NET Core · Entity Framework Core · PostgreSQL · Redis · RabbitMQ · AutoMapper · Clean Architecture · gRPC**
 
 --- 
 
