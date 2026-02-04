@@ -94,8 +94,10 @@ I love **problem-solving**, improving my skills in **Data Structures & Algorithm
 
 #### 🧩 Services & Platforms
 - **Rider Service**
+- **Rider Wallet Service**
 - **CherryPicker Platform**
 - **Incentive Service**
+- **User Service**
 - **Report Service**
 - **Consumer Service**
 
