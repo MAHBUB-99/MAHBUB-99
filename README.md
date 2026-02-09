@@ -4,7 +4,7 @@
 
 Beyond development, I have a keen interest in **cloud technologies** and **DevOps practices**. I actively work with **AWS services** like **EC2, S3** and set up **modern CI/CD pipelines** using **Git Hub Actions**, **Docker**, **terraform** and **Ansible** to ensure smooth deployment and scalable applications.    
 
-I love **problem-solving**, improving my skills in **Data Structures & Algorithms**, and applying them to **real-world coding challenges**. I constantly explore **new technologies and frameworks** to stay ahead in both backend and frontend development, turning ideas into real projects that make an impact.   
+I love **problem-solving**, improving my skills in **Data Structures & Algorithms**, and applying them to **real-world coding challenges**. I constantly explore **new technologies and frameworks** to stay ahead in both backend and frontend development, turning ideas into real projects that make an impact.    
 
 🚀 Let's build something amazing together!   
    
