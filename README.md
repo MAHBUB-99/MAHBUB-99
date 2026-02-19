@@ -17,7 +17,7 @@ I love **problem-solving**, improving my skills in **Data Structures & Algorithm
 👯 Open to collaborating on **innovative ideas**.  
 🌱 Currently learning **.NET Core**,**Go lang** , **DevOps**, and **System Design**.   
 
-# 💻 Tech Stack
+# 💻 Tech Stack 
 
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat&logo=c&logoColor=white) 
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=flat&logo=c-sharp&logoColor=white) 
