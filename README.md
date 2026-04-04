@@ -103,7 +103,7 @@ I love **problem-solving**, improving my skills in **Data Structures & Algorithm
 
 > Implemented **event-driven communication** between microservices using **RabbitMQ**, ensuring reliable asynchronous processing and loose coupling.
 
-#### 🛠️ Tech Stack
+#### 🛠️ Tech Stack 
 **ASP.NET Core · Entity Framework Core · PostgreSQL · Redis · RabbitMQ · AutoMapper · Clean Architecture · gRPC**
 
 --- 
