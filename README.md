@@ -80,8 +80,13 @@ I love **problem-solving**, improving my skills in **Data Structures & Algorithm
 # 💼 Professional Experience   
 
 ### 🧑‍💻 Junior Software Engineer  
-**TechnoNext Software Limited** *(A Concern of US-Bangla Group)*  
+**Foodi Express Limited**  
 📅 *October 2025 – Present*  
+📍 *Dhaka, Bangladesh*
+
+### 🧑‍💻 Junior Software Engineer  
+**TechnoNext Software Limited** *(A Concern of US-Bangla Group)*  
+📅 *October 2025 – March 2026*  
 📍 *Dhaka, Bangladesh*
 
 #### 🔧 Role & Responsibilities
