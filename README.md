@@ -9,13 +9,6 @@ I love **problem-solving**, improving my skills in **Data Structures & Algorithm
 🚀 Let's build something amazing together!    
    
 --- 
- 
-### What I’m up to  
-
-♥️ Passionate about learning and exploring new technologies.   
-🔭 Building projects with **Express**, **React.js**, and **Next.js**.  
-👯 Open to collaborating on **innovative ideas**.  
-🌱 Currently learning **.NET Core**,**Go lang** , **DevOps**, and **System Design**.   
 
 # 💻 Tech Stack 
 
@@ -76,41 +69,54 @@ I love **problem-solving**, improving my skills in **Data Structures & Algorithm
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=flat&logo=Canva&logoColor=white) 
 ![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=flat&logo=adobe%20illustrator&logoColor=white) 
 ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=flat&logo=latex&logoColor=white)
-
-# 💼 Professional Experience   
+# 💼 Professional Experience
 
 ### 🧑‍💻 Junior Software Engineer  
-**Foodi Express Limited**  
+Foodi Express Limited  
 📅 *October 2025 – Present*  
 📍 *Dhaka, Bangladesh*
 
+#### 🔧 Key Contributions
+- Working on scalable backend systems and internal services using **ASP.NET Core**, **PostgreSQL**, and **Clean Architecture**.
+- Developing and maintaining secure **REST APIs** and contributing to performance optimization and system reliability.
+- Collaborating with engineering teams to build efficient and maintainable microservice-based solutions.
+
+#### 🧩 Services & Platforms
+- EMI Service  
+- User Service  
+- Wallet Service  
+
+#### 🛠️ Tech Stack
+**ASP.NET Core · Entity Framework Core · PostgreSQL · Redis · RabbitMQ · Clean Architecture · Microservices Architecture**
+
+---
+
 ### 🧑‍💻 Junior Software Engineer  
-**TechnoNext Software Limited** *(A Concern of US-Bangla Group)*  
+TechnoNext Software Limited *(A Concern of US-Bangla Group)*  
 📅 *October 2025 – March 2026*  
 📍 *Dhaka, Bangladesh*
 
-#### 🔧 Role & Responsibilities
-- Member of the **.NET Backend Engineering Team**, developing scalable and high-performance **microservices** following **Clean Architecture** principles.
-- Designed and implemented secure, maintainable **REST APIs** and **gRPC services** using **ASP.NET Core** and **Entity Framework Core**.
-- Worked with  **PostgreSQL**, focusing on efficient data modeling and optimized queries.
-- Improved system observability by enhancing **ILogger-based structured logging** and implementing centralized **global exception handling**.
-- Integrated **Redis** caching to improve performance and reduce database load.
-- Followed strict **code review** practices, developed reusable components, and enforced consistency using **Clean Architecture** best practices.
+#### 🔧 Key Responsibilities
+- Contributed to the **.NET Backend Engineering Team**, building scalable and high-performance **microservices** following **Clean Architecture** principles.
+- Designed and developed secure, maintainable, and production-ready **REST APIs** and **gRPC services** using **ASP.NET Core** and **Entity Framework Core**.
+- Worked extensively with **PostgreSQL**, focusing on efficient database design, query optimization, and performance tuning.
+- Enhanced system observability through structured **ILogger-based logging**, centralized **global exception handling**, and improved debugging workflows.
+- Implemented **Redis caching** strategies to improve application performance and reduce database load.
+- Participated in rigorous **code reviews**, maintained coding standards, and developed reusable, maintainable backend components.
 
 #### 🧩 Services & Platforms
-- **Rider Service**
-- **Rider Wallet Service**
-- **CherryPicker Platform**
-- **Incentive Service**
-- **User Service**
-- **Report Service**
-- **Consumer Service**
+- Rider Service  
+- Rider Wallet Service  
+- CherryPicker Platform  
+- Incentive Service  
+- User Service  
+- Report Service  
+- Consumer Service  
 
-> Implemented **event-driven communication** between microservices using **RabbitMQ**, ensuring reliable asynchronous processing and loose coupling.
+> Implemented reliable **event-driven communication** between distributed microservices using **RabbitMQ**, enabling asynchronous processing and loose coupling across services.
 
-#### 🛠️ Tech Stack 
-**ASP.NET Core · Entity Framework Core · PostgreSQL · Redis · RabbitMQ · AutoMapper · Clean Architecture · gRPC**
-
+#### 🛠️ Tech Stack
+**ASP.NET Core · Entity Framework Core · PostgreSQL · Redis · RabbitMQ · gRPC · AutoMapper · Clean Architecture · Microservices Architecture**
 --- 
 
 # 🧾 Internship Experience  
