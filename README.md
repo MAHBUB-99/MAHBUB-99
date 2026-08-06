@@ -127,7 +127,7 @@ TechnoNext Software Limited *(A Concern of US-Bangla Group)*
 
 - Worked on a **Fund Management System** for internal banking operations.  
 - Involved in **System Design** and **Backend Development**, including **JWT-based authentication API** and partial **Fund Management API**.  
-- **Tools Used:** ASP.NET  
+- **Tools Used:** ASP.NET    
 
 ---
 
